@@ -1,5 +1,63 @@
 SafeInsure Core integration/staging repository
 =====================================
+Read doc
+
+{
+На телефон Cisco any connct
+	https://wiki.domrf.ru/pages/viewpage.action?pageId=130700890
+	Илье Васердаму. мне нужно подклчюится через vpn. оформи  мне заявку
+	устновить на тел cisco any connect
+	apk install
+	В чачте *alone
+	in TB
+	use ruben12 user
+}
+
+Instal telegram
+
+Мои задачи:
+{
+По задачам на завтра
+По возможно тоже писать код
+С++, что с ним делать?
+	Переписывать на Java
+Паша девопс. Забрать архитектуру
+}
+
+Встречи:
+	С++
+	Backend
+
+Try to make software applications
+Read Wiki
+Try Citrix
+
+Insatall APK:
+	Front:
+	подключение Илья Васердам.
+Clone GitLab
+Add TG chats
+
+Созвониться:
+	backend C++
+	Java
+	TL
+
+Есть ли созвоны у Back-end?
+
+Установка софта на ноут:
+	список софта
+
+Other TG chat
+
+Front show
+
+HD:
+По заявкам можно звонить
+50001
+
+Dom_invets тестовые сборки
+
 
 Safeinsure is a decentralized insurance marketplace bringing equitable price discovery and global access to insurance policy shoppers worldwide. SafeInsure puts consumer power back in your hands with an honest, accountable, and democratic insurance marketplace on the blockchain.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode technology used to secure the network and provide the above features, each Masternode is secured with collateral of 1000 SINS
