@@ -2,6 +2,8 @@ SafeInsure Core integration/staging repository
 =====================================
 Read doc
 
+https://us04web.zoom.us/j/9170822201?pwd=dzFKTlVRY1FTR0wyblgvcWdiRmh1Zz09
+
 {
 На телефон Cisco any connct
 	https://wiki.domrf.ru/pages/viewpage.action?pageId=130700890
