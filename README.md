@@ -4,6 +4,16 @@ Read doc
 
 https://us04web.zoom.us/j/9170822201?pwd=dzFKTlVRY1FTR0wyblgvcWdiRmh1Zz09
 
+
+-------
+Номер совещания: 990 165 739
+https://webx.domrf.ru/orion/joinmeeting.do?MTID=m1ff89ff3a88bd59d74ca196ae574a88c
+11999 для внутренних абонентов
+8(495)7755544 - 11999 для внешних абонентов
+Код доступа: 990 165 739
+
+-------
+
 {
 На телефон Cisco any connct
 	https://wiki.domrf.ru/pages/viewpage.action?pageId=130700890
