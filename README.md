@@ -9,10 +9,9 @@ https://us04web.zoom.us/j/9170822201?pwd=dzFKTlVRY1FTR0wyblgvcWdiRmh1Zz09
 http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER/candles.json?from=2022-08-01&start=0&interval=31
 
 -------
-cbsbrokerage
-cbsfinancialsecurities
-market-data-gate
-market-data
+https://gitlab.ahml.ru/invest  
+https://gitlab.ahml.ru/invest/backend/security  
+https://gitlab.ahml.ru/invest/backend/market-data  
 --
 
 {
