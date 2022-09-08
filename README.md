@@ -13,6 +13,8 @@ https://gitlab.ahml.ru/invest
 https://gitlab.ahml.ru/invest/backend/security  
 https://gitlab.ahml.ru/invest/backend/market-data  
 
+spec.containers[].resources.requests.cpu и limit.cpu.  
+
 Книги, которые могут вам помочь
 "Как привести дела в порядок. Искусство продуктивности без стресса", Дэвид Аллен.
 "Жесткий тайм-менеджмент. Возьмите свою жизнь под контроль", Дэн Кеннеди.
