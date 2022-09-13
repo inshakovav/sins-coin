@@ -9,7 +9,9 @@ https://us04web.zoom.us/j/9170822201?pwd=dzFKTlVRY1FTR0wyblgvcWdiRmh1Zz09
 http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER/candles.json?from=2022-08-01&start=0&interval=31
 
 -------
-https://wiki.domrf.ru/pages/viewpage.action?pageId=150754679  
+
+org.postgresql.Driver
+jdbc:postgresql://{host}[:{port}]/[{database}]
 
 jdbc:postgresql://cbsa-d-db-pg01.roscap.com:5432/market_data  
 jdbc:postgresql://dominv-t-db-pg01.roscap.com:5432/market-data
