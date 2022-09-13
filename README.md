@@ -12,6 +12,9 @@ http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER
 https://wiki.domrf.ru/pages/viewpage.action?pageId=150754679  
 
 jdbc:postgresql://cbsa-d-db-pg01.roscap.com:5432/market_data  
+jdbc:postgresql://dominv-t-db-pg01.roscap.com:5432/market-data
+marketdatausr
+backendusr
 
 Книги, которые могут вам помочь
 "Как привести дела в порядок. Искусство продуктивности без стресса", Дэвид Аллен.
