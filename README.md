@@ -9,11 +9,7 @@ https://us04web.zoom.us/j/9170822201?pwd=dzFKTlVRY1FTR0wyblgvcWdiRmh1Zz09
 http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER/candles.json?from=2022-08-01&start=0&interval=31
 
 -------
-https://gitlab.ahml.ru/invest  
-https://gitlab.ahml.ru/invest/backend/security  
-https://gitlab.ahml.ru/invest/backend/market-data  
-
-spec.containers[].resources.requests.cpu и limit.cpu.  
+https://wiki.domrf.ru/pages/viewpage.action?pageId=150754679  
 
 Книги, которые могут вам помочь
 "Как привести дела в порядок. Искусство продуктивности без стресса", Дэвид Аллен.
