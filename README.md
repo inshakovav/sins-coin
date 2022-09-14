@@ -13,8 +13,8 @@ http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER
 org.postgresql.Driver
 jdbc:postgresql://{host}[:{port}]/[{database}]
 
-dayproxy.jumpje.club  4443  
-eef48f621b110f302e468756840c29f91673332e616d617a6f6e6177732e636f6d
+tut.tgrmx.ru  443  
+ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d
 
 jdbc:postgresql://cbsa-d-db-pg01.roscap.com:5432/market_data  
 jdbc:postgresql://dominv-t-db-pg01.roscap.com:5432/market-data
