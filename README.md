@@ -8,6 +8,17 @@ https://us04web.zoom.us/j/9170822201?pwd=dzFKTlVRY1FTR0wyblgvcWdiRmh1Zz09
 -------
 http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER/candles.json?from=2022-08-01&start=0&interval=31
 
+
+https://wiki.domrf.ru/pages/viewpage.action?pageId=133368550
+https://wiki.domrf.ru/display/DOMINVEST/MarketDataGate
+https://bankdomrf.ispringlearn.ru/courses
+https://sd.domrf.ru/0/Nui/ViewModule.aspx#PortalMainPageModule/
+https://gitlab.ahml.ru/
+https://jira.domrf.ru/secure/RapidBoard.jspa?rapidView=1406
+https://gitlab.ahml.ru/abs-core
+https://gitlab.ahml.ru/TP
+https://gitlab.ahml.ru/invest
+https://l-graylog.roscap.com/  
 -------
 
 org.postgresql.Driver
