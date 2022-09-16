@@ -1,0 +1,113 @@
+8
+7.5
+8
+7
+
+done:
+{
+CBS:
+	Nginex, HAproxy for caching: REST, gRPC
+	Взаимодействие сервисов
+	REST
+	gRPC
+	Собираю список
+	1-2 days
+
+market-data: code review
+}
+
+
+Today:
+{
+Vlad. Code review
+1. Code review Pasha's code
+	Descover timeSacale extension
+3. Service acceptence
+4. Setup laptop
+6. Choice architecture book
+Education
+
+Monitoring 
+	software install
+Start Yandex course
+}
+
+
+{
+Работа во время техпауз с CBS
+Описание потоков данных с CBS
+Приемка сервисов от Kode
+Мосбиржа API с Владом
+}
+
+
+Teth pause CBS:
+{
+Alena's article adout services
+Prod doc
+	https://wiki.domrf.ru/pages/viewpage.action?pageId=120753068
+https://wiki.domrf.ru/pages/viewpage.action?pageId=150761177
+Track REST end-points
+Cache:
+	Code review cbsbrokerage
+}
+
+
+Next:
+{
+Wiki. Read Devops, etc 
+	https://wiki.domrf.ru/pages/viewpage.action?spaceKey=DEVOPS&title=build+with+nexus
+
+Prod doc:
+	https://wiki.domrf.ru/pages/viewpage.action?pageId=120753068
+}
+
+VPN
+Install Android App
+Read Book
+
+Testers meeting:
+	Doc, approaches
+	autotest
+	system acceptance
+Read exchange terms
+
+ AO
+Read opened tabs: c++ services descrtiptions
+
+My goals:
+{
+CBS - Паша
+CBS интеграция - моя
+C++:
+	Code review. May be problem with coworkers
+Architecture todo
+}
+
+Buisness trip report
+
+Мне описать текстом, потом схемы
+
+{
+На телефон Cisco any connct
+	https://wiki.domrf.ru/pages/viewpage.action?pageId=130700890
+	Илье Васердаму. мне нужно подклчюится через vpn. оформи  мне заявку
+	устновить на тел cisco any connect
+	apk install
+	В чачте *alone
+	in TB
+	use ruben12 user
+}
+
+Try Citrix
+
+Insatall APK:
+	Front:
+	подключение Илья Васердам.
+
+HD:
+По заявкам можно звонить
+50001
+
+Dom_invets тестовые сборки
+
