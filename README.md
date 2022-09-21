@@ -1,14 +1,6 @@
 SafeInsure Core integration/staging repository
 =====================================
-Read doc
 
-https://us04web.zoom.us/j/9170822201?pwd=dzFKTlVRY1FTR0wyblgvcWdiRmh1Zz09
-
-https://wiki.domrf.ru/pages/viewpage.action?pageId=133368550  
-
-https://wiki.domrf.ru/pages/viewpage.action?pageId=61807214 
-
-https://l-graylog.roscap.com/ 9NOCVKddBOFA1ad
 
 -------
 http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER/candles.json?from=2022-08-01&start=0&interval=31
