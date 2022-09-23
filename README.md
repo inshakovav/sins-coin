@@ -17,6 +17,19 @@ https://gitlab.ahml.ru/TP
 https://gitlab.ahml.ru/invest
 https://l-graylog.roscap.com/  
 -------
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Notification
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Fix+Adapter
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+OMS
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Payment
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Price+Alert
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Portfolio
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Pricer
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Report
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Settings
+https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Security
+https://wiki.domrf.ru/pages/viewpage.action?pageId=89650089 – все схемы в статьях по Мобильному приложению
+
+------
 
 Обращаем внимание, что подключение должно осуществляться исключительно с включенной камерой, если вы подключаетесь не под своей УЗ, то необходимо указывать полностью фамилию и имя.
 
