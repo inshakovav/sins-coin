@@ -1,6 +1,10 @@
 SafeInsure Core integration/staging repository
 =====================================
 
+https://us04web.zoom.us/j/2874374996?pwd=eExOa1FOMWVqWXkxNm9Ud0hSOFhPUT09 
+Идентификатор конференции: 287 437 4996
+Код доступа: 1111
+
 
 -------
 http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER/candles.json?from=2022-08-01&start=0&interval=31
