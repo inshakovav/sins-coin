@@ -5,6 +5,39 @@ https://us04web.zoom.us/j/2874374996?pwd=eExOa1FOMWVqWXkxNm9Ud0hSOFhPUT09
 Идентификатор конференции: 287 437 4996
 Код доступа: 1111
 
+-----------------
+
+Общий Keycloack domlogin
+Вроде есть синхронизация
+
+Напрямую для авторизации ищем кеклок в общий банк, а потом он идет в БД ДБО
+Импорт клиентов раз в сутки.
+
+CBS работатет с сессиями, токен не ходит в протоколе
+По этой сессии нужно подняться свою авторизацию
+
+У нас Keycloak МП получает token
+
+ДБО:
+        Страый монолит: собственная авторизация сессия некий uid на фронт
+        Новый микросервыси: Keycloak сессия, но JWT не передаем на фронт (это не безопасно)
+                В промежуточных точках тоен подменяем на сессию
+        autorization code flow:
+                API Gateway: от пользователя получил крэды, бэк отдал JWT, GW JWT подменяет на Session
+                        inmemory store JWT <> Session
+        пользователь вводит крэды, он получает авторизационный код.
+        Можно код передать на API gateway, он даст JWT token
+
+Нам ДБО передаст сессию
+
+User storge provider
+Identity provider
+
+Try to find DBO FL Provider
+Read Keycloack
+
+Pash U.: How does auth works?
+
 
 -------
 http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER/candles.json?from=2022-08-01&start=0&interval=31
