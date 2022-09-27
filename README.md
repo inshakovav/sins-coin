@@ -11,50 +11,9 @@ https://us04web.zoom.us/j/2874374996?pwd=eExOa1FOMWVqWXkxNm9Ud0hSOFhPUT09
 
 
 -------
-http://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities/SBER/candles.json?from=2022-08-01&start=0&interval=31
+https://grafana.domrfbank.ru/d/Pn3njVCnk/invest-test?orgId=83
 
-
-https://wiki.domrf.ru/pages/viewpage.action?pageId=133368550
-https://wiki.domrf.ru/display/DOMINVEST/MarketDataGate
-https://bankdomrf.ispringlearn.ru/courses
-https://sd.domrf.ru/0/Nui/ViewModule.aspx#PortalMainPageModule/
-https://gitlab.ahml.ru/
-https://jira.domrf.ru/secure/RapidBoard.jspa?rapidView=1406
-https://gitlab.ahml.ru/abs-core
-https://gitlab.ahml.ru/TP
-https://gitlab.ahml.ru/invest
-https://l-graylog.roscap.com/  
--------
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Notification
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Fix+Adapter
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+OMS
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Payment
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Price+Alert
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Portfolio
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Pricer
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Report
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Settings
-https://wiki.domrf.ru/display/DOMTRES/%5BBE%5D+Security
-https://wiki.domrf.ru/pages/viewpage.action?pageId=89650089 – все схемы в статьях по Мобильному приложению
-
-------
-
-Обращаем внимание, что подключение должно осуществляться исключительно с включенной камерой, если вы подключаетесь не под своей УЗ, то необходимо указывать полностью фамилию и имя.
-
-Для участия в ВКС необходимо:
-• С телефона или планшета - установить приложение IVA ВКС
-• C ПК или ноутбука - пройти по ссылке https://vcs.domrf.ru/ 
-• Авторизоваться в IVA под своей доменной учетной записью. 
-Инструкции для входа с ПК, Android, iPhone прикреплены во вложении.
-В случае возникновения проблем при авторизации оставляем возможность войти под “Гостем”
-
-Данные для входа в совещание:
-ID мероприятия: 190-068-822
-PIN : 1520
-Адрес сервера в приложении IVA ВКС: vcs.domrf.ru
-Ссылка на совещание https://vcs.domrf.ru/id/190068822 
-ВНИМАНИЕ:
-В случае сбоя совещание перейдет в стандартную комнату Jabber с номером 10011, код 1234#.
+-----------------
 
 
 Книги, которые могут вам помочь
