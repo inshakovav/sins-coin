@@ -13,6 +13,8 @@ http://hazelcastmanager.test.invest.domrfbank.ru/
 -------
 https://grafana.domrfbank.ru/d/Pn3njVCnk/invest-test?orgId=83
 
+TrialLicense#10Nodes#uOSiflYU2wdgABQKWJq6TZX5N8HE01jM9nGbyDCkmP10201110911190100011000110011011010011249001
+
 -----------------
 
 
