@@ -9,6 +9,9 @@ https://us04web.zoom.us/j/2874374996?pwd=eExOa1FOMWVqWXkxNm9Ud0hSOFhPUT09
 
 http://hazelcastmanager.test.invest.domrfbank.ru/
 
+Now:
+https://vcs.domrf.ru/id/887659581
+
 
 -------
 https://grafana.domrfbank.ru/d/Pn3njVCnk/invest-test?orgId=83
