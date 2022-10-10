@@ -6,18 +6,13 @@ https://us04web.zoom.us/j/2874374996?pwd=eExOa1FOMWVqWXkxNm9Ud0hSOFhPUT09
 Код доступа: 1111
 
 -----------------
+Обсудили 3 задачи на ближайший период:
+1.	Нужна доработка на НА5 DTR-18457 Описание проблемы https://wiki.domrf.ru/pages/viewpage.action?pageId=154030616#:~:text=%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D1%82%D1%8C%20%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20(%D1%82%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D1%82%D1%81%D1%8F%20%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0)! Для обсуждения приоритета нужно понять статус работ и сроков подключения к СПБ. Запланирован звонок на 11.10. 
+2.	DOMTRES-1050 – Илья пояснил, что проблема на стороне CBS и завел задачи на КЦ:
+a.	По запросу всех бумаг - https://jira.domrf.ru/browse/DTR-18743
+b.	По инструментам СПБ -  https://jira.domrf.ru/browse/DTR-18789
+3.	Нужно подготовить схему потоков данных. Обсудили с Аленой, что задачу с подготовкой схемы потоков данных сможет взять Роман в ближайшем спринте.  
 
-http://hazelcastmanager.test.invest.domrfbank.ru/
-
-Now:
-https://vcs.domrf.ru/id/887659581
-
-
--------
-https://grafana.domrfbank.ru/d/Pn3njVCnk/invest-test?orgId=83
-
-TrialLicense#10Nodes#uOSiflYU2wdgABQKWJq6TZX5N8HE01jM9nGbyDCkmP10201110911190100011000110011011010011249001
-TrialLicense#10Nodes#TEUg10ZHAyC9jnYPBSwWmfDu68kqOiJb5lKGXMNdQ210900111000010110111110910019111021200011040
 
 -----------------
 
