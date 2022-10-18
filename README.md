@@ -11,6 +11,9 @@ Trade update RPC failed: Status{code=UNAVAILABLE, description=HTTP status code 5
 Каждый день с 00 до 05
 
 -----------------
+https://auth-stage.roscap.com/auth/realms/external-rtl-idm/.well-known/openid-configuration
+https://testinvest.domrfbank.ru/portfolio
+------
 
 
 Книги, которые могут вам помочь
