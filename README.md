@@ -11,8 +11,19 @@ Trade update RPC failed: Status{code=UNAVAILABLE, description=HTTP status code 5
 Каждый день с 00 до 05
 
 -----------------
-        cbsfinancialsecurities-uat-grpc.prod.common.domrfbank.ru:80
-        cbsbrokerage-uat-grpc.prod.common.domrfbank.ru:80
+При работе с сервисом Webinar рекомендуется подключаться через браузер – Google Chrome. 
+	Проверьте возможность участия в сессии Webinar – тест системы >>> 
+https://events.webinar.ru/support/test-webrtc
+
+	Технические требования платформы Webinar к оборудованию и сети пользователя >>>
+https://help.webinar.ru/ru/articles/1518973-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F
+
+	Если браузер не поддерживает технологии для подключения к сессии, то можно воспользоваться приложением Webinar для просмотра мероприятия >>>
+https://help.webinar.ru/ru/articles/4900663-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-webinar-%D0%BD%D0%B0-windows-%D0%B8-macos
+
+	Инструкция по подключению к видео-голосовой сессии во время курса >>>
+https://drive.google.com/file/d/12xHYQpDHg3aLECnJRWsIUtRFxDlfm_qT/view?usp=sharing
+
 
 ------
 
