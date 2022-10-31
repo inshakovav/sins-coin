@@ -10,6 +10,11 @@ Trade update RPC failed: Status{code=UNAVAILABLE, description=HTTP status code 5
 [market-data]
 Каждый день с 00 до 05
 
+---
+Требования на АРМ https://wiki.domrf.ru/pages/viewpage.action?pageId=150750387
+
+Бизнес-требования на ЛК Администратора https://wiki.domrf.ru/pages/viewpage.action?pageId=150750389
+
 -----------------
 При работе с сервисом Webinar рекомендуется подключаться через браузер – Google Chrome. 
 	Проверьте возможность участия в сессии Webinar – тест системы >>> 
