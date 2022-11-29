@@ -1,0 +1,488 @@
+securityId: "44000000000001947.44000000000000138.44000000000000155"
+securityType: BOND
+logo: "\211PNG\r\n\032\n\000\000\000\rIHDR\000\000\000(\000\000\000(\b\006\000\000\000\214\376\270m\000\000\000\006bKGD\000\377\000\377\000\377\240\275\247\223\000\000\000\321IDATX\205\355\330=\n\302@\020\206\341\335\315\224A\242!Z\030cg\347\355\274\216w\260\263\261\361\000V\"\202Xh\264IT\262\371\251\302B\274\300j\212)f\213yN\360\302\3605#\004c\354/\271\331\237\236Q\350\033\352\020\233\327\247\001\210B\337,\027\311\234:\306\346xI\357\212:\242\017\abq \026\ab9\037\b\353\355-\236\034\032\352\016\253,\177\3070\f\202n4\236R\267X\265\255\351\234?1\abq \226\222\265\366\250#~\221\265\366\224R\316\366\t\245<\001EYI\270\236\251[\254\212\262\222\260\322;\223\ff@\035c\223\352\207q\177$\324\001}8\020\213\003\2618\020\v\252,\227\251\020N>\217\252,\227\324\r\2149\357\v7\2472\304M\034\356\211\000\000\000\000IEND\256B`\202"
+ticker: "SU26225RMFS1"
+board: "TQOB"
+exchange: MOEX
+isin: "RU000A0ZYUB7"
+currency: "RUB"
+tradeStartDate {
+  yyyy: 1980
+  mm: 1
+  dd: 1
+}
+shortName: "\320\236\320\244\320\227-\320\237\320\224225"
+issuer {
+  name: "\320\234\320\270\320\275\321\204\320\270\320\275 \320\240\320\276\321\201\321\201\320\270\320\270"
+  country: "\320\240\320\236\320\241\320\241\320\230\320\257"
+  code: "RUS"
+}
+calendar {
+  date {
+    yyyy: 2018
+    mm: 5
+    dd: 29
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2018
+    mm: 11
+    dd: 27
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2019
+    mm: 5
+    dd: 28
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2019
+    mm: 11
+    dd: 26
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2020
+    mm: 5
+    dd: 26
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2020
+    mm: 11
+    dd: 24
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2021
+    mm: 5
+    dd: 25
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2021
+    mm: 11
+    dd: 23
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2022
+    mm: 5
+    dd: 24
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2022
+    mm: 11
+    dd: 22
+  }
+  currency: "RUB"
+  rate: "7.25"
+  closed: true
+}
+calendar {
+  date {
+    yyyy: 2023
+    mm: 5
+    dd: 23
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2023
+    mm: 11
+    dd: 21
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2024
+    mm: 5
+    dd: 21
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2024
+    mm: 11
+    dd: 19
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2025
+    mm: 5
+    dd: 20
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2025
+    mm: 11
+    dd: 18
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2026
+    mm: 5
+    dd: 19
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2026
+    mm: 11
+    dd: 17
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2027
+    mm: 5
+    dd: 18
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2027
+    mm: 11
+    dd: 16
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2028
+    mm: 5
+    dd: 16
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2028
+    mm: 11
+    dd: 14
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2029
+    mm: 5
+    dd: 15
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2029
+    mm: 11
+    dd: 13
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2030
+    mm: 5
+    dd: 14
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2030
+    mm: 11
+    dd: 12
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2031
+    mm: 5
+    dd: 13
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2031
+    mm: 11
+    dd: 11
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2032
+    mm: 5
+    dd: 11
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2032
+    mm: 11
+    dd: 9
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2033
+    mm: 5
+    dd: 10
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2033
+    mm: 11
+    dd: 8
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+calendar {
+  date {
+    yyyy: 2034
+    mm: 5
+    dd: 8
+  }
+  currency: "RUB"
+  rate: "7.25"
+}
+tradingMode {
+  timeFrom {
+  }
+  timeTo {
+    hh: 23
+    mm: 59
+    ss: 59
+  }
+  priceStep {
+    value: 1
+    scale: 3
+  }
+  lotSize: 1
+  tenor: "T+1"
+  exchangeOpened: true
+}
+bond {
+  initialFaceValue {
+    value: 1000
+  }
+  currentFaceValue {
+    value: 1000
+  }
+  volume {
+    value: 350000000
+  }
+  registrationDate {
+    yyyy: 2018
+    mm: 2
+    dd: 15
+  }
+  placementStartDate {
+    yyyy: 2018
+    mm: 2
+    dd: 21
+  }
+  maturityDate {
+    yyyy: 2034
+    mm: 5
+    dd: 10
+  }
+  couponType: FIXED
+  couponYield {
+    value: 99
+    scale: 2
+  }
+  lastCouponNumber {
+    value: 33
+  }
+  amortizations {
+    date {
+      yyyy: 2034
+      mm: 5
+      dd: 10
+    }
+    amount {
+      value: 1000000
+      scale: 3
+    }
+    currency: "RUB"
+    currentFaceValue {
+      scale: 3
+    }
+  }
+}
+price {
+  high {
+    value: 82539
+    scale: 3
+  }
+  low {
+    value: 82539
+    scale: 3
+  }
+  lastPrice {
+    value: 82539
+    scale: 3
+  }
+  open {
+    value: 82539
+    scale: 3
+  }
+  dailyPnl {
+    percent {
+      value: 37
+      scale: 2
+    }
+    absolute {
+      value: 305
+      scale: 3
+    }
+    change: negative
+  }
+  weeklyPnl {
+    percent {
+      value: 1
+      scale: 2
+    }
+    absolute {
+      value: 11
+      scale: 3
+    }
+    change: negative
+  }
+  monthlyPnl {
+    percent {
+      value: 76
+      scale: 2
+    }
+    absolute {
+      value: 628
+      scale: 3
+    }
+    change: negative
+  }
+  quarterlyPnl {
+    percent {
+      value: 684
+      scale: 2
+    }
+    absolute {
+      value: 6061
+      scale: 3
+    }
+    change: negative
+  }
+  yearlyPnl {
+    percent {
+      value: 1023
+      scale: 2
+    }
+    absolute {
+      value: 9407
+      scale: 3
+    }
+    change: negative
+  }
+  bid {
+  }
+  ask {
+  }
+  closeDayAgo {
+    value: 82539
+    scale: 3
+  }
+  closeWeekAgo {
+    value: 82386
+    scale: 3
+  }
+  closeMonthAgo {
+    value: 83167
+    scale: 3
+  }
+  closeQuarterAgo {
+    value: 8855
+    scale: 2
+  }
+  closeYearAgo {
+    value: 92731
+    scale: 3
+  }
+}
