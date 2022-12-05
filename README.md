@@ -1,17 +1,7 @@
 SafeInsure Core integration/staging repository
 =====================================
 
-https://us04web.zoom.us/j/2874374996?pwd=eExOa1FOMWVqWXkxNm9Ud0hSOFhPUT09 
-Идентификатор конференции: 287 437 4996
-Код доступа: 1111
-
------------------
-Trade update RPC failed: Status{code=UNAVAILABLE, description=HTTP status code 503
-[market-data]
-Каждый день с 00 до 05
-
----
-44000000000019077.44000000000000138.44000000000000160
+ https://nexus.ahml.ru/
 
 
 ------
