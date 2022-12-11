@@ -3,7 +3,7 @@ SafeInsure Core integration/staging repository
 
  https://nexus.ahml.ru/
 
-
+44000000000019077.44000000000000138.44000000000000160
 ------
 
 
