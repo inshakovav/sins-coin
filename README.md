@@ -5,7 +5,7 @@ SafeInsure Core integration/staging repository
 
 \\roscap.com\ctx\UserDrive1\vv.sukhanov.ROSCAP\Documents\tools\grpcurl.exe -plaintext cbscbsbrokerage-grpc.cbs.uat.domrfbank.ru:80 list
 ------
-
+https://webx.domrf.ru/orion/joinmeeting.do?MTID=8979e73c9a22d08e2c5c8e45bbca840b
 
 Книги, которые могут вам помочь
 "Как привести дела в порядок. Искусство продуктивности без стресса", Дэвид Аллен.
