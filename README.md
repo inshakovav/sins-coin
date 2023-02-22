@@ -5,20 +5,17 @@ SafeInsure Core integration/staging repository
 
 \\roscap.com\ctx\UserDrive1\vv.sukhanov.ROSCAP\Documents\tools\grpcurl.exe -plaintext cbscbsbrokerage-grpc.cbs.uat.domrfbank.ru:80 list
 ------
-{
-  "exchange": "otc",
-  "board": "T2",
-  "ticker": "US87238U1043",
-  "securityId": "44000000012168690.44000000000000249.44000000000046296",
-  "orderType": "limit",
-  "side": "buy",
-  "lotSize": 3,
-  "lotQty": 10,
-  "price": {
-    "amount": "2500",
-    "currency": "RUB"
-  }
-}
+Maven:
+1. IDEA
+File | Settings | Build, Execution, Deployment | Build Tools | Maven | Archetype Catalogs
+
+Add catalogs:
+Type: Remote
+https://nexus.ahml.ru/repository
+https://nexus.ahml.ru
+https://nexus.ahml.ru/repository/maven-public/
+
+copy from project: potfolio/.m2/setting.xml  to ~/.m2/
 ---
 
 Книги, которые могут вам помочь
