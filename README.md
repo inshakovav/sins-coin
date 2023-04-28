@@ -1,10 +1,33 @@
 SafeInsure Core integration/staging repository
 =====================================
 
- https://nexus.ahml.ru/
-
-\\roscap.com\ctx\UserDrive1\vv.sukhanov.ROSCAP\Documents\tools\grpcurl.exe -plaintext cbscbsbrokerage-grpc.cbs.uat.domrfbank.ru:80 list
-------
+ EUR/TJS: AskAndBid(ask=12.47605, bid=12.26265)
+EUR/RUB: AskAndBid(ask=88.748, bid=87.23)
+RUB/KZT: AskAndBid(ask=5.607267, bid=5.506002)
+CNY/RUB: AskAndBid(ask=11.59775, bid=11.39938)
+USD/AMD: AskAndBid(ask=400.07568, bid=395.69892)
+KGS/RUB: AskAndBid(ask=0.93057, bid=0.91443)
+RUB/CNY: AskAndBid(ask=0.087503, bid=0.086416)
+RUB/KGS: AskAndBid(ask=1.093853, bid=1.074345)
+RUB/TJS: AskAndBid(ask=0.136628, bid=0.134123)
+USD/KZT: AskAndBid(ask=465.94576, bid=457.97594)
+USD/CNY: AskAndBid(ask=7.29125, bid=7.16835)
+TJS/RUB: AskAndBid(ask=7.45214, bid=7.32471)
+AMD/RUB: AskAndBid(ask=0.2099, bid=0.20755)
+EUR/USD: AskAndBid(ask=1.12865, bid=1.11603)
+RUB/AMD: AskAndBid(ask=4.820439, bid=4.761905)
+USD/EUR: AskAndBid(ask=0.8992, bid=0.88294)
+RUB/USD: AskAndBid(ask=0.012617, bid=0.012385)
+EUR/AMD: AskAndBid(ask=441.35928, bid=433.81001)
+EUR/CNY: AskAndBid(ask=8.02168, bid=7.88451)
+RUB/EUR: AskAndBid(ask=0.01147, bid=0.011259)
+USD/TJS: AskAndBid(ask=11.34566, bid=11.15165)
+EUR/KGS: AskAndBid(ask=99.84785, bid=98.16475)
+EUR/KZT: AskAndBid(ask=512.6235, bid=503.7304)
+USD/KGS: AskAndBid(ask=90.50827, bid=89.51813)
+USD/RUB: AskAndBid(ask=80.44, bid=79.54)
+KZT/RUB: AskAndBid(ask=0.18158, bid=0.17842)
+ -----
 Maven:
 1. IDEA
 File | Settings | Build, Execution, Deployment | Build Tools | Maven | Archetype Catalogs
